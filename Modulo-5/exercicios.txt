@@ -15,6 +15,7 @@ https://www.codewars.com/kata/5bb904724c47249b10000131
 https://www.codewars.com/kata/56f3a1e899b386da78000732
 https://www.codewars.com/kata/580755730b5a77650500010c
 
+https://www.codewars.com/kata/541c8630095125aba6000c00/train/go
 
 Exercícios do site Exercism:
 Seguir a trilha de exercícios do Exercism da parte de "Learn" (o que mostrei no início do módulo): https://exercism.org/tracks/go/concepts​
